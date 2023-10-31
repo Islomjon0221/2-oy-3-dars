@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pixelify Sans';
+    src: url('PixelifySans-Regular.woff2') format('woff2'),
+        url('PixelifySans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
